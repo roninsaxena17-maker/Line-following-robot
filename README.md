@@ -2,6 +2,7 @@
 It is an autonomous robot that follows a path made with black line on white surface
 The robot uses an ESP32, a QTR-8RC sensor array, a TB6612FNG motor driver, and two geared DC motors.
 <img width="729" height="631" alt="Screenshot 2026-11-09 at 11 38 56 PM" src="https://github.com/user-attachments/assets/5f4830cc-84c2-4d76-a548-9f7dfbde6190" />
+
 Features:
 Follows a black line
 Uses the QTR-8A sensor array to detect the line and determine its position.
