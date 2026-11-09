@@ -38,4 +38,11 @@ Assembly:
 <img width="1470" height="956" alt="Screenshot 2026-11-09 at 9 54 35 PM" src="https://github.com/user-attachments/assets/bea1823c-84af-41ae-a1d0-e2fd81bf1c2a" />
 
 
+CODE:
+![Screenshot_2026-11-10_at_12.40.47_AM.png](https://cdn.hackclub.com/01a1c1b9-3c53-747f-9eb9-aac640722a7e/Screenshot_2026-11-10_at_12.40.47_AM.png)
+![Screenshot_2026-11-10_at_12.40.51_AM.png](https://cdn.hackclub.com/01a1c1b9-4f1e-7b07-8906-cc99a878df0e/Screenshot_2026-11-10_at_12.40.51_AM.png)
+![Screenshot_2026-11-10_at_12.40.54_AM.png](https://cdn.hackclub.com/01a1c1b9-5be1-7dbb-bd87-a337d2fb7207/Screenshot_2026-11-10_at_12.40.54_AM.png)
+![Screenshot_2026-11-10_at_12.40.59_AM.png](https://cdn.hackclub.com/01a1c1b9-6de5-7cd9-b582-2e2a2a74153b/Screenshot_2026-11-10_at_12.40.59_AM.png)
+
+
 
